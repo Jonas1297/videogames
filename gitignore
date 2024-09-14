@@ -1,0 +1,19 @@
+git-for-each-ref
+/docs/git-for-each-ref
+git-for-each-ref(1) =================== NAME ---- git-for-each-ref - Output information on each ref SYNOPSIS -------- [verse] 'git for-each-ref' [--count=] [--shell|--perl|--python|--tcl]
+
+git-instaweb
+/docs/git-instaweb
+Currently apache2, lighttpd, mongoose, plackup, python and webrick are supported. (Default: lighttpd) -m:: --module-path:: The module path (only needed if httpd is Apache).
+
+gitattributes
+/docs/gitattributes
+- `python` suitable for source code in the Python language. - `ruby` suitable for source code in the Ruby language. - `rust` suitable for source code in the Rust language.
+
+git-fast-import
+/docs/git-fast-import
+DEVELOPMENT COST ---------------- A typical frontend for fast-import tends to weigh in at approximately 200 lines of Perl/Python/Ruby code.
+
+git-format-patch
+/docs/git-format-patch
+= MIME-Version: 1.0 Content-Type: text/plain; charset=UTF-8 Content-Transfer-Encoding: 8bit arch/arm config files were slimmed down usi
